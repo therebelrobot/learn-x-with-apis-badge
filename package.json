@@ -1,0 +1,22 @@
+{
+  "name": "learn-x-with-apis-badge",
+  "version": "1.0.0",
+  "description": "A minimal wrapper for shields.io to simplify badges for learn-x-with-apis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/learn-x-with-apis-badge.git"
+  },
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/learn-x-with-apis-badge/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/learn-x-with-apis-badge#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
